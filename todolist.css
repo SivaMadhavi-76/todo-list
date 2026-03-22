@@ -1,0 +1,34 @@
+body{
+    font-family:Arial;
+}
+.js-div,
+.titlestyle{
+    display:grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 20px;
+     margin-bottom: 10px;
+}
+.titlestyle{
+
+    column-gap:20px;
+}
+.delete-button{
+    background-color:#e80606f4;
+    color:white;
+     padding:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.add-button{
+   background-color:green;
+   color:white;
+   padding:px
+}
+.todotitle{
+    color:rgb(255, 30, 0);
+}
+input{
+    padding:10px
+   
+}
